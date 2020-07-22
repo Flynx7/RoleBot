@@ -114,7 +114,7 @@ function removeCommand(arguments, receivedMessage) {
     }
 }
 
-client.login('NzMzOTk3NzcwODI5OTg3ODcy.XxLSuQ.EF7-lUEs3bUA_NZwfgxE-8ml-8Y')
+client.login('your_token_here')
 
 /*
 Servers:
