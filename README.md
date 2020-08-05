@@ -1,3 +1,4 @@
+# RoleBot
 <div align="center">
 <a href= "https://discord.gg/3Fnehut"><img src="https://img.shields.io/discord/730255393816838234.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support"></a>
 </div>
